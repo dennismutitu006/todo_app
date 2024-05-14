@@ -4,7 +4,7 @@ The To-Do App is a cross-platform application that helps you manage your tasks a
 Features
 Create Tasks: Add new tasks to your list with a title, description, and due date.
 Update Tasks: Edit existing tasks to modify their title, description, or due date.
-Delete Tasks: Remove tasks from your list when they are completed or no longer needed.
+Delete Tasks: Remove tasks from your list when they are completed or no are longer needed.
 Mark Tasks as Completed: Mark tasks as completed to keep track of your progress.
 Filter Tasks: Filter tasks based on their status (completed or incomplete) to focus on what's important.
 Search Tasks: Search for specific tasks by title or description to quickly find what you need.
